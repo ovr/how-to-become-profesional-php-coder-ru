@@ -6,5 +6,7 @@
             "email": "zaets28rus@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "ovr/spellcheck-cli": "*"
+    }
 }
