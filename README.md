@@ -1,5 +1,6 @@
 Как стать профессиональным PHP разработчиком
 ============================================
+[![Build Status](https://travis-ci.org/ovr/how-to-become-profesional-php-coder-ru.svg)](https://travis-ci.org/ovr/how-to-become-profesional-php-coder-ru)
 
 Данная книга находится в разработке!
 
