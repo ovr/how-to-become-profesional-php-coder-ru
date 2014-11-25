@@ -30,9 +30,9 @@
 6. Паттерны
 7. Базовая информация по фреймворкам
 8. Обзор фреймворков
-  - Phalcon
-  - Symfony 2
-  - Zend Framework 2
+  - [Phalcon](./frameworks/phalcon.md)
+  - [Symfony 2](./frameworks/symfony2.md)
+  - [Zend Framework 2](./frameworks/zend2.md)
 9. ORMS\DBALS
   - Doctrine 2
   - Lynx
