@@ -8,4 +8,4 @@ install:
   - composer --prefer-source install
 
 script:
-  - vendor/bin/spellchecker check README.md
+  - vendor/bin/spellchecker check --exit-code-with-miss-takes=10 --ext=md .
