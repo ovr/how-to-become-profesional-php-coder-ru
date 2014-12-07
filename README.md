@@ -10,33 +10,33 @@
 
 Данная книга рассчитана на широкий круг разработчиков, начиная от только пришедших в язык программистов, заканчивая людьми с большим стажем разработки на этом языке. 
 
-1. Введение
-  - Что такое PHP
-  - Веб-серверы
-  - Установка
-2. Базис
-  - Условия
-  - Циклы
-3. [Composer](./composer.md)
-  - Установка
-  - Управление зависимостями
-  - Создание своего пакета
-4. Знакомство с реляционными базами данных
-  - MySQL
-  - PgSQL
-5. NoSql зона
-  - MongoDB
-  - Redis
-6. Паттерны
-7. Базовая информация по фреймворкам
-8. Обзор фреймворков
-  - [Phalcon](./frameworks/phalcon.md)
-  - [Symfony](./frameworks/symfony2.md)
-  - [Zend Framework](./frameworks/zend2.md)
-9. ORMS\DBALS
-  - Doctrine 2
-  - Lynx
-10. PHP изнутри
-  - Zend Engine
-  - zval
-  - hash table
+- Введение
+    - Что такое PHP
+    - Веб-серверы
+    - Установка
+- Базис
+    - Условия
+    - Циклы
+- [Composer](./composer.md)
+    - Установка
+    - Управление зависимостями
+    - Создание своего пакета
+- Знакомство с реляционными базами данных
+    - MySQL
+    - PgSQL
+- NoSql зона
+    - MongoDB
+    - Redis
+- Паттерны
+- Базовая информация по фреймворкам
+- Обзор фреймворков
+    - [Phalcon](./frameworks/phalcon.md)
+    - [Symfony](./frameworks/symfony2.md)
+    - [Zend Framework](./frameworks/zend2.md)
+- ORMS\DBALS
+    - Doctrine 2
+    - Lynx
+- PHP изнутри
+    - Zend Engine
+    - zval
+    - hash table
